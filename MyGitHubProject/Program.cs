@@ -12,7 +12,6 @@ namespace MyGitHubProject
         {
             Console.WriteLine("Hello GitHub");
 
-
         }
     }
 }
